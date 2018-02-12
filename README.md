@@ -1,7 +1,7 @@
 # openmrs_data_demo
 
 ## Purpose
-This code is a demo of Openmrs data, for CHOP
+This code is a demo of Openmrs data
 
 
 ## Instructions on how code was set up
